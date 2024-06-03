@@ -7,4 +7,4 @@
 7. Push the files to the GitHub repository.
 8. Make a new file called "Readme.md" and commit it as "Add README file."
 9. Make a new file called "a.env" and do not commit it.
-10.Push all the work to GitHub.
+10. Push all the work to GitHub.
